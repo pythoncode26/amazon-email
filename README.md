@@ -30,13 +30,11 @@
 
 
 ## 🤝 Get in Touch
-For support, licensing, or business inquiries, you may reach me on
 
-如需支持、授权或商务咨询，您可以通过以下方式联系我：
+if you want to purchase,
 
-Email    : elowenreply@gmail.com
-
-Telegram : [@thepythoncode97](https://t.me/thepythoncode97)
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 
 ## Disclaimer
