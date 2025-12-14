@@ -1,7 +1,7 @@
 # Amazon Valid Email Checker
 # 亚马逊有效电子邮件检查器
 
-![Amazon Valid Email Checker](https://raw.githubusercontent.com/thepythoncode97/Amazon-Valid-Email-Checker/refs/heads/main/Amazon_Email_Validator.png)
+![Amazon Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Amazon-Valid-Email-Checker/refs/heads/main/amazon-email-checker.png)
 
 ## Features
 ## 特征
@@ -32,6 +32,8 @@
 ## 🤝 Get in Touch
 
 if you want to purchase,
+
+如果你想购买，
 
 - Email     : elowenreply@gmail.com
 - Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
