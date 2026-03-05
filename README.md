@@ -10,7 +10,7 @@
 - Automatically handles proxy configurations.
 - Quickly checks emails in your list.
 - Ensures precise verification.
-- Support any sort of emails
+- Support all emails domain.
 
 
 - 支持多线程验证。
